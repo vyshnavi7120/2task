@@ -2,6 +2,6 @@
 
 print 'hi'
 print 'hello'
-print 'namasthe'  
+printy 'namasthe'  
  
 ?>
